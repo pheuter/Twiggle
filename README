@@ -5,3 +5,7 @@ Currently in beta stage with simple features. Plans to implement in the future:
 .trending topics
 .search
 .add friend
+
+~Latest build can be used on http://com-twiggle.appspot.com
+
+~Implements twitter4j java library 
